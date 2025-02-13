@@ -44,9 +44,9 @@ Durante sua vez, cada jogador deve digitar um número de 1 a 9 correspondente a 
 O jogo continua até que um jogador vença ou o jogo termine em empate.
 O tabuleiro será exibido após cada jogada, e o resultado final será mostrado ao término da partida.
 Exemplo de como o tabuleiro aparece:
-_ _ _ 
-_ _ _ 
-_ _ _
+_ _ _ |
+_ _ _ |
+_ _ _ |
 
 Após algumas jogadas, o tabuleiro pode ficar assim:
 X O X 
