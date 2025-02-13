@@ -31,11 +31,11 @@ O código é dividido em algumas partes principais:
 
 Definições de constantes:
 
-* JOGADOR_X: * Define o símbolo do jogador X ('X').
-* JOGADOR_O: * Define o símbolo do jogador O ('O').
-* EMPATE: * Define o valor para indicar empate ('E').
-* CARACTERE_BRANCO: * Define o caractere para espaços vazios no tabuleiro ('_').
-* QTD_LINHAS e QTD_COLUNAS: * Definem o número de linhas e colunas do tabuleiro (3x3).
+* JOGADOR_X:  Define o símbolo do jogador X ('X').
+* JOGADOR_O:  Define o símbolo do jogador O ('O').
+* EMPATE:  Define o valor para indicar empate ('E').
+* CARACTERE_BRANCO:  Define o caractere para espaços vazios no tabuleiro ('_').
+* QTD_LINHAS e QTD_COLUNAS: Definem o número de linhas e colunas do tabuleiro (3x3).
 
 ## Como jogar
 O tabuleiro será exibido no formato de uma matriz 3x3, onde cada célula é representada por _ (caractere em branco).
