@@ -45,9 +45,9 @@ O jogo continua até que um jogador vença ou o jogo termine em empate.
 O tabuleiro será exibido após cada jogada, e o resultado final será mostrado ao término da partida.
 
 Após algumas jogadas, o tabuleiro pode ficar assim:
-X O X 
-_ X O 
-O _ X
+| X O X |
+| _ X O |
+| O _ X |
 
 ### Regras do Jogo
 ** Vencer: ** Um jogador vence se conseguir alinhar 3 de seus símbolos em uma linha, coluna ou diagonal.
